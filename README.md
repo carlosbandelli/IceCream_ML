@@ -35,9 +35,35 @@ Output: Predicted sales: 78 units
 </pre>
 
 <h2>📸 Screenshots</h2>
+
+<h3>🔧 Jobs</h3>
 <div align="center">
-  <img src="https://via.placeholder.com/600x400?text=Scatter+Plot+Temp+vs+Sales" width="45%">
-  <img src="https://via.placeholder.com/600x400?text=MLflow+Dashboard" width="45%">
+  <img src="https://your-image-url-here/jobs-screenshot.png" alt="Jobs Dashboard" width="80%">
+  <p><em>MLflow tracking of training jobs</em></p>
+</div>
+
+<h3>📊 AutoML - Metrics</h3>
+<div align="center">
+  <img src="https://your-image-url-here/automl-metrics.png" alt="AutoML Metrics" width="80%">
+  <p><em>Model performance comparison across algorithms</em></p>
+</div>
+
+<h3>⚙️ AutoML - Parameters</h3>
+<div align="center">
+  <img src="https://your-image-url-here/automl-parameters.png" alt="AutoML Parameters" width="80%">
+  <p><em>Hyperparameter optimization results</em></p>
+</div>
+
+<h3>⛓️ Pipeline</h3>
+<div align="center">
+  <img src="https://your-image-url-here/pipeline-architecture.png" alt="Pipeline Architecture" width="80%">
+  <p><em>End-to-end training pipeline structure</em></p>
+</div>
+
+<h3>🏆 Pipeline Scores</h3>
+<div align="center">
+  <img src="https://your-image-url-here/pipeline-scores.png" alt="Pipeline Performance" width="80%">
+  <p><em>Final model evaluation metrics</em></p>
 </div>
 
 <h2>📅 Next Steps</h2>
