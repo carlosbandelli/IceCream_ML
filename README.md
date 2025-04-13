@@ -38,31 +38,31 @@ Output: Predicted sales: 78 units
 
 <h3>🔧 Jobs</h3>
 <div align="center">
-  <img src="https://your-image-url-here/jobs-screenshot.png" alt="Jobs Dashboard" width="80%">
+  <img src="https://github.com/carlosbandelli/IceCream_ML/blob/main/screenshots/Jobs.png" alt="Jobs Dashboard" width="80%">
   <p><em>MLflow tracking of training jobs</em></p>
 </div>
 
 <h3>📊 AutoML - Metrics</h3>
 <div align="center">
-  <img src="https://your-image-url-here/automl-metrics.png" alt="AutoML Metrics" width="80%">
+  <img src="https://github.com/carlosbandelli/IceCream_ML/blob/main/screenshots/automl_metrics.png" alt="AutoML Metrics" width="80%">
   <p><em>Model performance comparison across algorithms</em></p>
 </div>
 
 <h3>⚙️ AutoML - Parameters</h3>
 <div align="center">
-  <img src="https://your-image-url-here/automl-parameters.png" alt="AutoML Parameters" width="80%">
+  <img src="https://github.com/carlosbandelli/IceCream_ML/blob/main/screenshots/automl_parameter.png" alt="AutoML Parameters" width="80%">
   <p><em>Hyperparameter optimization results</em></p>
 </div>
 
 <h3>⛓️ Pipeline</h3>
 <div align="center">
-  <img src="https://your-image-url-here/pipeline-architecture.png" alt="Pipeline Architecture" width="80%">
+  <img src="https://github.com/carlosbandelli/IceCream_ML/blob/main/screenshots/pipeline.png" alt="Pipeline Architecture" width="80%">
   <p><em>End-to-end training pipeline structure</em></p>
 </div>
 
 <h3>🏆 Pipeline Scores</h3>
 <div align="center">
-  <img src="https://your-image-url-here/pipeline-scores.png" alt="Pipeline Performance" width="80%">
+  <img src="https://github.com/carlosbandelli/IceCream_ML/blob/main/screenshots/pipeline-score.png" alt="Pipeline Performance" width="80%">
   <p><em>Final model evaluation metrics</em></p>
 </div>
 
