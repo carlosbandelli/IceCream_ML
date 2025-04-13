@@ -25,21 +25,7 @@ sorvete-sales-predictor/
 
 </pre>
 
-<h2>📈 Data Insights</h2>
-<table>
-  <tr>
-    <td><b>Correlation</b></td>
-    <td>0.89 (Temp vs Sales)</td>
-  </tr>
-  <tr>
-    <td><b>Best Model</b></td>
-    <td>Random Forest (R²: 0.85)</td>
-  </tr>
-  <tr>
-    <td><b>Threshold</b></td>
-    <td>+15% sales above 30°C</td>
-  </tr>
-</table>
+
 
 
 <h2>📊 Sample Prediction</h2>
